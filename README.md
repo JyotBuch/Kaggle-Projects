@@ -23,3 +23,11 @@ Score :- 94.73 %
 Android Games Dataset : https://www.kaggle.com/dhruvildave/top-play-store-games
 
 I have performed data-preprocessing and exploratory data analysis.
+
+##
+
+Global Suicide Rate Dataset : https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+
+I have performed data-preprocessing and exploratory data analysis.
+
+##

@@ -16,7 +16,7 @@ Breast Cancer Wisconsin (Diagnostic) DataSet : https://www.kaggle.com/uciml/brea
 
 I have performed data analysis, data - preprocessing, and used XGBClassifier as my model to predict results.
 ###
-Score :- 94.73 %
+Score :- 98.25 %
 
 ##
 

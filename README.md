@@ -16,7 +16,7 @@ House Prices - Advanced Regression Techniques Dataset : https://www.kaggle.com/c
 
 I have performed data analysis, data - preprocessing, hyperparameter tuning and used XGBRegressor as my model to predict results.
 ###
-Score :- 0.14242 RMSLE
+Score :- 0.12895 RMSLE
 
 ##
 

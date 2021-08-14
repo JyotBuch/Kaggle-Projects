@@ -12,8 +12,6 @@ Score :- 77.511 %
 
 ##
 
-##
-
 House Prices - Advanced Regression Techniques Dataset : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 I have performed data analysis, data - preprocessing, hyperparameter tuning and used XGBRegressor as my model to predict results.

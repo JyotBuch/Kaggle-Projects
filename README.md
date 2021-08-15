@@ -16,7 +16,7 @@ House Prices - Advanced Regression Techniques Dataset : https://www.kaggle.com/c
 
 I have performed data analysis, data - preprocessing, hyperparameter tuning and used XGBRegressor as my model to predict results.
 ###
-Score :- 0.12895 RMSLE
+Score :- 0.12754 MSLE
 
 ##
 
@@ -24,7 +24,7 @@ Breast Cancer Wisconsin (Diagnostic) DataSet : https://www.kaggle.com/uciml/brea
 
 I have performed data analysis, data - preprocessing, and used XGBClassifier as my model to predict results.
 ###
-Score :- 98.25 %
+Score :- 99.45 %
 
 ##
 

@@ -39,3 +39,11 @@ Global Suicide Rate Dataset : https://www.kaggle.com/russellyates88/suicide-rate
 I have performed data-preprocessing and exploratory data analysis.
 
 ##
+
+Heart Disease Prediction Dataset : https://www.kaggle.com/ronitf/heart-disease-uci
+
+I have performed data analysis, data - preprocessing, hyperparameter tuning and used KNNClassifier as my model to predict results.
+###
+Score :- 86.81 %
+
+##

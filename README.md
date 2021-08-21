@@ -47,3 +47,11 @@ I have performed data analysis, data - preprocessing, hyperparameter tuning and 
 Score :- 86.81 %
 
 ##
+
+Wine Quality Prediction Dataset : https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+
+I have performed data analysis, data - preprocessing and used XGBoostClassifier as my model to predict results.
+###
+Score :- 91.87 %
+
+##

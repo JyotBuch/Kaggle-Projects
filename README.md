@@ -55,3 +55,11 @@ I have performed data analysis, data - preprocessing and used XGBoostClassifier 
 Score :- 91.87 %
 
 ##
+
+Diamond Price Prediction Dataset : https://www.kaggle.com/shivam2503/diamonds
+
+I have performed data analysis, data - preprocessing, pipelining, hyperparamter tuning and used XGBoostRegressor as my model to predict results.
+###
+R-Squared - 98.2%
+
+##
